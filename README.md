@@ -1,7 +1,6 @@
-# You can easily learn machine learning regression model.
+# You can easily learn machine learning following this step:
 <font color='blue'>
   
-Following this step:
 * [Data preparation]
 * [Choosing a model]
 * [Training]
